@@ -2,7 +2,7 @@
 import random
 
 # 2 - Create subjects
-subjects = [
+subjects = [ 
     "Shahrukh Khan",
     "Virat Kohli",
     "Rathod Raj",
